@@ -18,3 +18,8 @@ else{
     console.log("o valor do emprestimo é: "+ emprestimo + " , o valor das parcelas são: " + prestacao)
     console.log("você pode pegar o emprestimo pois o emprestimo é maior que os 30% do salario" )
 }
+
+
+if(true){
+    console.log(true);
+}
